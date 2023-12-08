@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53309ef2-f8a9-421f-b8d8-25898d59e0cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/CSS-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/Co-op.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/Faculty_Science.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/rocketinno.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -26,7 +22,14 @@
       <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/sponsors/epicentre.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/sponsors/epicentre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/AbbieDewhirst.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/AbbieDewhirst.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Aya Madi.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Aya Madi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Mat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Mat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Sharjeel_Mustafa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Sharjeel_Mustafa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Vivian_Tang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Vivian_Tang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/afi1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/afi1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/alwahami.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/alwahami.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/omar-profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/omar-profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/bs-animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bs-animation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/grayscale.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/grayscale.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
@@ -91,7 +94,7 @@
       <updated>1699663488042</updated>
       <workItem from="1699663489391" duration="6142000" />
       <workItem from="1699813930867" duration="130000" />
-      <workItem from="1701987638580" duration="3673000" />
+      <workItem from="1701987638580" duration="7724000" />
     </task>
     <servers />
   </component>
