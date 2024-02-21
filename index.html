@@ -83,9 +83,9 @@
             <div class="row">
                 <div class="col-lg-10 mx-auto">
                     <h1 class="text-left brand-heading" style="margin-top: 25px;">WinHacks 2024</h1>
-                    <p class="text-left intro-text">WinHacks is Back! <a style="margin-left: 20px; font-weight: 700;"
-                                                                         href="https://forms.gle/bFFeGLP27nYKKcWT9"
-                                                                         class="btn btn-primary btn-lg">Join US!</a><br>
+                    <p class="text-left intro-text">WinHacks has concluded! <a style="margin-left: 20px; font-weight: 700;"
+                                                                         href="https://photos.app.goo.gl/82oYNTyFtJjPbD5v9"
+                                                                         class="btn btn-primary btn-lg">See Photos</a><br>
                     </p>
                     <p class="text-left intro-text"><i class="fa fa-calendar-times-o" style="margin-right: 16px;"></i>February
                         17-18, 2024<br></p>
@@ -149,10 +149,10 @@
                                 var distance = countDownDate - now;
 
                                 // Time calculations for days, hours, minutes and seconds
-                                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                                var days = distance>0 ? Math.floor(distance / (1000 * 60 * 60 * 24)) : 0 ;
+                                var hours = distance>0 ? Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)) : 0 ;
+                                var minutes = distance>0 ? Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)) : 0 ;
+                                var seconds = distance>0 ?  Math.floor((distance % (1000 * 60)) / 1000) : 0 ;
 
                                 // Display the result in the element with id="demo"
                                 document.getElementById('days').innerText = days;
